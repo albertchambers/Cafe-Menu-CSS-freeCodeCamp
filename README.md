@@ -1,2 +1,5 @@
 # Cafe-Menu-CSS-freeCodeCamp
-Styling a HTML document with CSS
+Styling an HTML document with CSS
+
+## {'Selectors'}
+  '.{}' class-selector
