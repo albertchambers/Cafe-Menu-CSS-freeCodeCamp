@@ -3,8 +3,16 @@ body {
   font-family: sans-serif;
 }
 
+.established {
+  font-style: italic;
+}
+
 h1, h2, p {
   text-align: center;
+}
+
+h1, h1 {
+  font-family: Impact, serif;
 }
 
 .menu {
@@ -24,8 +32,7 @@ h1, h2, p {
   text-align: left;
   width: 75%;
 }
-.dessert,
-.price {
+.dessert, .price {
   text-align: right;
   width: 25%
 }
