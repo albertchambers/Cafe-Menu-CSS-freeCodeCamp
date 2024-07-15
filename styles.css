@@ -50,7 +50,7 @@ h2 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 18px
+  font-size: 18px;
 }
 
 .flavor,
@@ -62,4 +62,10 @@ h2 {
 .price {
   text-align: right;
   width: 25%
+}
+
+/* FOOTER */
+
+footer {
+  font-size: 14px;
 }
