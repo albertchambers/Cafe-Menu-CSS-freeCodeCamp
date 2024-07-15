@@ -15,32 +15,43 @@ h2 {
   font-style: italic;
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
   text-align: center;
-}
-
-h1, h2 {
-  font-family: Impact, serif;
 }
 
 .menu {
   width: 80%;
-  padding: 20px;
-  max-width: 500px;
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+h1,
+h2 {
+  font-family: Impact, serif;
 }
 
 .item p {
   display: inline-block;
 }
 
-.flavor {
+.flavor,
+.dessert {
   text-align: left;
   width: 75%;
 }
-.dessert, .price {
+
+.price {
   text-align: right;
   width: 25%
 }
